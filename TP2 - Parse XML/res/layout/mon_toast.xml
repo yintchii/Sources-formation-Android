@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/imageView1" android:src="@drawable/icon"></ImageView>
+    <TextView android:text="TextView" android:layout_height="50dip" android:layout_width="fill_parent" android:id="@+id/text1"></TextView>
+</LinearLayout>
