@@ -1,3 +1,4 @@
 Ce Repository regroupe le code source des TPs vu lors de la formation Android (http://www.idevmob.fr).
 
 TP1 : ListView en utilisant un adapter spécifique pour mettre en forme chaque ligne du listing.
+TP2 : Parser XML des stations de vélo de Marseille + affichage dans un listView à l'aide d'un adapter spécifique ArrayList<Station>
