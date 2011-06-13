@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <TextView android:layout_height="wrap_content" android:text="TextView" android:layout_y="2dip" android:layout_width="fill_parent" android:layout_x="0dip" android:textStyle="bold" android:gravity="center_horizontal" android:textSize="25dip" android:id="@+id/name"></TextView>
+    <ImageView android:layout_height="250dip" android:layout_width="250dip" android:src="@drawable/icon" android:layout_x="30dip" android:layout_y="49dip" android:scaleType="centerInside" android:baselineAlignBottom="true" android:id="@+id/gmap"></ImageView>
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView2" android:text="@string/velos" android:layout_x="49dip" android:textSize="14dip" android:layout_y="330dip"></TextView>
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/textView4" android:text="@string/emplacements" android:layout_x="176dip" android:layout_y="330dip" android:textSize="14dip"></TextView>
+    <TextView android:textStyle="bold" android:textSize="25dip" android:layout_height="50dip" android:layout_width="wrap_content" android:text="00" android:layout_x="57dip" android:layout_y="368dip" android:id="@+id/velos"></TextView>
+    <TextView android:textStyle="bold" android:textSize="25dip" android:layout_height="50dip" android:layout_width="wrap_content" android:text="00" android:layout_x="208dip" android:layout_y="368dip" android:id="@+id/emplacement"></TextView>
+</AbsoluteLayout>

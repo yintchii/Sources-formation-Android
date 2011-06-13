@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/bike" android:title="Around Me !" android:id="@+id/option1"></item>
+    <item android:title="Quitter" android:id="@+id/option2" android:icon="@drawable/door"></item>
+    <item android:title="Start" android:icon="@drawable/icon" android:id="@+id/option3"></item>
+    <item android:title="Stop" android:icon="@drawable/icon" android:id="@+id/option4"></item>
+</menu>
