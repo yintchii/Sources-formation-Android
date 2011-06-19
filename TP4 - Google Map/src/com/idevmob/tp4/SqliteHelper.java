@@ -11,7 +11,7 @@ import android.util.Log;
 
 public class SqliteHelper {
 
-	public static String dbpath = "/data/data/com.gemalto.velosud/";
+	public static String dbpath = "/data/data/com.idevmob.tp4/";
 	public static String dbname = "velosud.sqlite";
 	
 	Context context;
