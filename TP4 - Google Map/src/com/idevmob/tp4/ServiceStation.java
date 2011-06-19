@@ -2,7 +2,6 @@ package com.idevmob.tp4;
 
 import java.util.Random;
 
-import com.gemalto.velosud.R;
 
 import android.app.Notification;
 import android.app.NotificationManager;

@@ -2,8 +2,6 @@ package com.idevmob.tp4;
 
 import java.util.ArrayList;
 
-import com.gemalto.velosud.R;
-
 import android.app.Activity;
 import android.content.Context;
 import android.view.LayoutInflater;

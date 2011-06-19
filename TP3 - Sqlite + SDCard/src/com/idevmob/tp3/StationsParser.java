@@ -77,8 +77,9 @@ public class StationsParser extends DefaultHandler {
 		}else{
 			return true;
 		}
-
 	}
+	
+
 	
 	public StationsParser(Context context) throws SAXException, ParserConfigurationException, IOException{
 		this.context = context;

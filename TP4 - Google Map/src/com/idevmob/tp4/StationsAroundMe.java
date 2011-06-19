@@ -3,7 +3,6 @@ package com.idevmob.tp4;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.gemalto.velosud.R;
 import com.google.android.maps.GeoPoint;
 import com.google.android.maps.MapActivity;
 import com.google.android.maps.MapController;

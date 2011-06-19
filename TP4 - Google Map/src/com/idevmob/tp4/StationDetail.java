@@ -4,7 +4,6 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-import com.gemalto.velosud.R;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
